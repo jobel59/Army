@@ -1,2 +1,5 @@
-package interfaces;public interface Defensive {
+package interfaces;
+
+public interface Defensive {
+    void defend();
 }

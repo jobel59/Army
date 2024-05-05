@@ -1,2 +1,5 @@
-package interfaces;public interface Offensive {
+package interfaces;
+
+public interface Offensive {
+    void attack();
 }

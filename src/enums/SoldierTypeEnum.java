@@ -1,2 +1,5 @@
-package enums;public enum SoldierTypeEnum {
+package enums;
+
+public enum SoldierTypeEnum {
+    OFFENSIVE, DEFENSIVE, ADAPTABLE
 }
